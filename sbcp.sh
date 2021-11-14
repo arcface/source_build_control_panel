@@ -5,7 +5,7 @@
 # www.arcface.net
 clear
 echo
-echo -e "\033[32m TEXT 2 \033[0m"
+echo -e "\033[32m METIN 2 \033[0m"
 echo
 echo -e "\033[31m SBCP(SOURCE BUILD CONTROL PANEL)! \033[0m"
 echo -e "\033[31m SOURCE COMPILATION CONTROL PANEL! \033[0m"
